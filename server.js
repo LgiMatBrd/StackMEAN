@@ -4,7 +4,7 @@ var app = express();
 var port = 3000;
 
 app.get('/', function(req, res) {
-res.send('hello from afar');
+res.send('hello motherfuck!');
 });
 
 app.listen(port, function(){
