@@ -8,7 +8,7 @@
 
 ## [1.2.0] - 2017-04-05
 ### Added
-- added Upgrade to PRO page
+- added Upgrade to PRO page 
 - update package
 - made sidebar dynamic
 
